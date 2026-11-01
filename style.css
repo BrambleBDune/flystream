@@ -100,7 +100,7 @@ header {
     min-height: 25px;
     border:none;
     border-radius: 8px;
-    cursor: pointer;
+  /* <!-- cursor: pointer; --> */
   } 
 
 li {
