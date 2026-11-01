@@ -41,13 +41,13 @@ header {
     padding: 10px 20px;  /* 10px top/bottom, 20px left/right */
  }  
         a:link {
-            color: black
+            color: blue
         }
         a:visited {
-            color: red
+            color: purple
         }
         a:hover {
-            color: purple
+            color: black
         }
         a:active {
             color: red
